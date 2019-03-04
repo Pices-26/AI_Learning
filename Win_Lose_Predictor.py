@@ -1,3 +1,5 @@
+#predictor for gamse like COD: team deathmatch 
+#Input kills and deaths into array to make your own data
 from matplotlib import pyplot as plt
 import numpy as np
 import os
